@@ -1,0 +1,1 @@
+kubectl describe nodes | grep -E "Name:|nvidia.com/gpu.product|nvidia.com/gpu:"
